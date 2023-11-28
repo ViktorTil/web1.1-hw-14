@@ -1,0 +1,56 @@
+RESTAPI routes Users
+=========================
+.. automodule:: src.routes.users
+  :members:
+  :undoc-members:
+  :show-inheritance:
+
+RESTAPI routes Auth
+=========================
+.. automodule:: src.routes.auth
+  :members:
+  :undoc-members:
+  :show-inheritance:
+
+RESTAPI routes Contacts
+=========================
+.. automodule:: src.routes.contacts
+  :members:
+  :undoc-members:
+  :show-inheritance:
+
+RESTAPI repository Contacts
+=========================
+.. automodule:: src.repository.contacts
+  :members:
+  :undoc-members:
+  :show-inheritance:
+
+RESTAPI repository Users
+=========================
+.. automodule:: src.repository.users
+  :members:
+  :undoc-members:
+  :show-inheritance:
+
+RESTAPI service Auth
+=========================
+.. automodule:: src.services.auth
+  :members:
+  :undoc-members:
+  :show-inheritance:
+
+
+RESTAPI service Email
+=========================
+.. automodule:: src.services.email
+  :members:
+  :undoc-members:
+  :show-inheritance:
+
+RESTAPI service Utils
+=========================
+.. automodule:: src.services.utils
+  :members:
+  :undoc-members:
+  :show-inheritance:
